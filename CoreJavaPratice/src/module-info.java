@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author sandeep
- *
- */
-module CoreJavaPratice {
-}
